@@ -19,7 +19,7 @@
   "homepage": "https://github.com/rocketacademy/sequelize-cli-bootcamp#readme",
   "dependencies": {
     "pg": "^8.6.0",
-    "sequelize": "^6.6.4"
+    "sequelize": "^6.19.0"
   },
   "devDependencies": {
     "eslint": "^7.15.0",
